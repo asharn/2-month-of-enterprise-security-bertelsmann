@@ -28,4 +28,4 @@ My pledge "#60DaysofUdacity" with Udacity.
 - **What issues are blocking my progress?**\
   None so far
 
-![Day 3](images/day-02.png)
+![Day 3](images/day-03.png)
