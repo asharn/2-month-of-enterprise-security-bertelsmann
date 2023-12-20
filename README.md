@@ -8,7 +8,7 @@ My pledge "#60DaysofUdacity" with Udacity.
 - My current progress is:\
   **Introduction to Program** (Progress 100%)\
 
-![Day 1](images/day-01.png)
+![Day 1](images/day-01.PNG)
 
 ## Day 2 - Sprint #1: December 19, 2023. #60DaysofUdacity
 - **What did I work on yesterday?**\
@@ -18,7 +18,7 @@ My pledge "#60DaysofUdacity" with Udacity.
 - **What issues are blocking my progress?**\
   None so far
 
-![Day 2](images/day-02.png)
+![Day 2](images/day-02.PNG)
 
 ## Day 3 - Sprint #1: December 20, 2023. #60DaysofUdacity
 - **What did I work on yesterday?**\
@@ -28,4 +28,4 @@ My pledge "#60DaysofUdacity" with Udacity.
 - **What issues are blocking my progress?**\
   None so far
 
-![Day 3](images/day-03.png)
+![Day 3](images/day-03.PNG)
